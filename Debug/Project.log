@@ -1,0 +1,35 @@
+﻿  Main.cpp
+C:\Users\PC\Desktop\Project\Project\Person.h(18,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\Person.h(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\Account.h(20,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\ITManager.h(91,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\ITManager.h(121,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\ITManager.h(133,1): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\PC\Desktop\Project\Project\ITManager.h(151,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\ITManager.h(179,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\ITManager.h(191,1): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\PC\Desktop\Project\Project\ITManager.h(207,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\ITManager.h(219,1): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\PC\Desktop\Project\Project\ITManager.h(235,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\Course.h(59,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\Course.h(65,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\Course.h(74,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\Course.h(80,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\Course.h(89,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\Course.h(95,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\Course.h(123,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\Course.h(132,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\Course.h(151,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\Project\Project\Course.h(250,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\Project\Project\Department.h(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\Department.h(62,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\University.h(25,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\University.h(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\Desktop\Project\Project\University.h(169): warning C4715: 'University::HODMenu': not all control paths return a value
+C:\Users\PC\Desktop\Project\Project\University.h(193): warning C4715: 'University::ITManagerMenu': not all control paths return a value
+C:\Users\PC\Desktop\Project\Project\University.h(177): warning C4715: 'University::TeacherMenu': not all control paths return a value
+C:\Users\PC\Desktop\Project\Project\University.h(185): warning C4715: 'University::StudentMenu': not all control paths return a value
+C:\Users\PC\Desktop\Project\Project\University.h(201): warning C4715: 'University::TAMenu': not all control paths return a value
+C:\Users\PC\Desktop\Project\Project\Department.h(190): warning C4715: 'Department::ITManagerMenu': not all control paths return a value
+C:\Users\PC\Desktop\Project\Project\Department.h(533): warning C4715: 'Department::TAmenu': not all control paths return a value
+  Project.vcxproj -> C:\Users\PC\Desktop\Project\Debug\Project.exe

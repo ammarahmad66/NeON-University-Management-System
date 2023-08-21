@@ -1,0 +1,15 @@
+Lahore University
+1
+Computer Science
+2
+CS100,Programming Fundamentals
+CS101,Object Oriented Programming
+2
+1001,Tahir Ali
+1002,Kamran Shahid
+1
+1003,Ali Zamaan
+4
+9000,Ammar Ahmad
+9001,Ali Aamir
+9002,Faez Nasir
